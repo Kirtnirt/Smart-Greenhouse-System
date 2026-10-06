@@ -16,8 +16,8 @@ Read light level, turn the lamp on when it gets dark, turn it off when it gets b
 | LED + resistor | Stand-in lamp (load) |
 | 1N4007 diode | Lets the ESP32 release the relay properly |
 
-[Add photo: breadboard build]
-[Add screenshot: Proteus schematic]
+![ breadboard build](breadboard.jpg)
+![Proteus - Schematic ](proteus-schematic.png.png)
 
 ## Design
 
