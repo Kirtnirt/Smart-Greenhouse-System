@@ -176,12 +176,7 @@ The relay worked when I touched GND to its IN pin, but the sketch never switched
 
 Method that found it: test the relay by itself, then move back one connection at a time until the signal stops.
 
-### 7. Code bugs I found and fixed
-- A constant was named `RELAY_IN` but the helper functions used `RELAY_PIN`.
-- The Trig and Echo pin modes were swapped in `setup()`.
-- `pumpOff;` was missing its brackets, so it never ran.
-- `delay(1)` made the loop far faster than the sensor can measure, so I changed it to 500 ms.
-- An `else` was missing the closing brace before it.
+
 
 ## Results
 
