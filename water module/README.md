@@ -2,6 +2,7 @@
 
 Part of the Smart Greenhouse Controller. An ESP32 measures the water level in a tank with an ultrasonic sensor and switches a pump (an LED stands in for it) through a relay, using two-threshold hysteresis so the pump doesn't chatter. If the sensor reading can't be trusted, the pump is switched off.
 
+water module/Screenshot 2026-10-16 194331-water module.png
 [Add photo: finished wiring, including the Echo divider and the diode]
 [Add screenshot: serial monitor output]
 
