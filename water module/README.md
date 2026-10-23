@@ -5,7 +5,7 @@ Part of the Smart Greenhouse Controller. An ESP32 measures the water level in a 
 
 
 ![Finished wiring](photo_2026-10-23_03-03-16.jpg)
-![Serial monitor output](Screenshot 2026-10-16 194331-water module.png)
+![Serial monitor output](Screenshot%202026-10-16%20194331-water%20module.png)
 
 
 
