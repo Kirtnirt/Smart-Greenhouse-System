@@ -205,4 +205,4 @@ The water module works as intended.
 
 ## Next
 
-Air module: a gas sensor driving a fan, with the same two-threshold pattern. After all three modules work, they get merged into one sketch and reported over MQTT to AWS IoT Core.
+Air module: a gas sensor driving a fan, with the same two-threshold pattern.
