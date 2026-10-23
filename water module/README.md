@@ -64,7 +64,7 @@ Part of the Smart Greenhouse Controller. An ESP32 measures the water level in a 
 
 ## Sketch
 
-I wrote this sketch myself, section by section. The relay's on/off method: on means the pin is an output driven LOW, and off means the pin becomes an input so the ESP32 lets go of it.
+The relay's on/off method: on means the pin is an output driven LOW, and off means the pin becomes an input so the ESP32 lets go of it.
 
 ```cpp
 const int ECHO_PIN = 35;
